@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="ThirdTask:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="91c08961-ab61-4380-9d3c-b1762f113aa2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/ThirdTask_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Classes/Someone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Enums/BodyParts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interfaces/HumanAble.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main/ThirdLab.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThirdTask.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ThirdLab.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Classes/Action.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Classes/Action.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Classes/Conversation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Classes/Conversation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Classes/Creature.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Classes/Creature.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Classes/Fux.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Classes/Fux.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Classes/Girlfriends.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Classes/Girlfriends.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Classes/Human.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Classes/Human.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Classes/Launch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Classes/Launch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Classes/Others.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Classes/Others.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Classes/Rocket.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Classes/Rocket.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Classes/Seld.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Classes/Seld.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Classes/Thing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Classes/Thing.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Classes/Znai.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Classes/Znai.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Classes/Zvezd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Classes/Zvezd.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Enums/Place.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Enums/Place.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Interfaces/Condition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Interfaces/Condition.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Interfaces/RocketData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Interfaces/RocketData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Interfaces/StoryTeller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Interfaces/StoryTeller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Interfaces/Woman.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Interfaces/Woman.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ThirdTask.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/Classes/Human.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/Classes/Action.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/Classes/Conversation.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/Classes/Creature.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/Classes/Zvezd.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/Classes/Znai.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/Classes/Thing.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/Enums/Place.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/Enums/Mood.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectId" id="1zXunLzPojadhNgxcJcTPhKy6kg" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../FourthLab" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RunManager">
+    <configuration name="ThirdLab" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main.ThirdLab" />
+      <module name="ThirdLab" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ThirdLab" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="91c08961-ab61-4380-9d3c-b1762f113aa2" name="Changes" comment="" />
+      <created>1634306922156</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1634306922156</updated>
+      <workItem from="1634306923424" duration="1382000" />
+      <workItem from="1634308464018" duration="8529000" />
+      <workItem from="1634323478664" duration="308000" />
+      <workItem from="1634337479348" duration="49000" />
+      <workItem from="1634337700127" duration="748000" />
+      <workItem from="1634376704036" duration="11513000" />
+      <workItem from="1634463109785" duration="16485000" />
+      <workItem from="1634479880124" duration="3529000" />
+      <workItem from="1634486056752" duration="143000" />
+      <workItem from="1634501212327" duration="45000" />
+      <workItem from="1634552603918" duration="624000" />
+      <workItem from="1634620377391" duration="243000" />
+      <workItem from="1634625177477" duration="6000" />
+      <workItem from="1634632849428" duration="1050000" />
+      <workItem from="1634912442547" duration="1453000" />
+      <workItem from="1635095866147" duration="7956000" />
+      <workItem from="1635105997462" duration="1865000" />
+      <workItem from="1635225607523" duration="721000" />
+      <workItem from="1635241864515" duration="76000" />
+      <workItem from="1635256271209" duration="2338000" />
+      <workItem from="1635272270538" duration="1714000" />
+      <workItem from="1635312556132" duration="8273000" />
+      <workItem from="1636016275777" duration="5871000" />
+      <workItem from="1636031634043" duration="324000" />
+      <workItem from="1636051728117" duration="11000" />
+      <workItem from="1636230746753" duration="310000" />
+      <workItem from="1636232115339" duration="1022000" />
+      <workItem from="1636237248640" duration="3000" />
+      <workItem from="1636276281779" duration="7000" />
+      <workItem from="1636406217366" duration="1262000" />
+      <workItem from="1636435964570" duration="1698000" />
+      <workItem from="1636441460991" duration="4344000" />
+      <workItem from="1636447172346" duration="505000" />
+      <workItem from="1636449120265" duration="9000" />
+      <workItem from="1636466388290" duration="188000" />
+      <workItem from="1636521765074" duration="2419000" />
+      <workItem from="1636524242963" duration="32000" />
+      <workItem from="1636570732561" duration="16000" />
+      <workItem from="1637045220781" duration="547000" />
+      <workItem from="1637052097560" duration="31000" />
+      <workItem from="1638046288512" duration="87000" />
+      <workItem from="1638091496128" duration="133000" />
+      <workItem from="1638300816467" duration="117000" />
+      <workItem from="1638301059169" duration="8000" />
+      <workItem from="1638567941800" duration="872000" />
+      <workItem from="1638625329703" duration="9000" />
+      <workItem from="1657988817727" duration="259000" />
+      <workItem from="1657993673261" duration="265000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NullPointerException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
