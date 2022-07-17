@@ -1,0 +1,139 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage{setspace}
+\usepackage[russian]{babel}  
+\usepackage{multicol}
+\usepackage{ragged2e}
+\usepackage{amsmath}
+\usepackage{graphicx}
+\usepackage[absolute,overlay]{textpos}
+%\usepackage[texcoord, grid,gridcolor=red!10,subgridcolor=green!10,gridunit=pt] {eso-pic}
+\usepackage{hyperref}
+
+\begin{document}
+\thispagestyle{empty}
+\begin{textblock*}{300pt}(175pt, 80pt)
+\begin{center} МИНИСТЕРСТВО ОБРАЗОВАНИЯ И НАУКИ РФ \end{center}
+
+\begin{center} Федеральное государственное автономное \\
+образовательное учреждение высшего образования \\
+<<Национальный исследовательский университет ИТМО>> \end{center}
+
+\begin{center}\textbf {\footnotesize ФАКУЛЬТЕТ ПРОГРАММНОЙ ИНЖЕНЕРИИ И КОМПЬЮТЕРНОЙ ТЕХНИКИ} \end{center} 
+\end{textblock*}
+
+\begin{textblock*}{300pt}(175pt, 140pt)
+\begin{center}
+\vspace{8em}\textbf{РАСЧЁТНО-ГРАФИЧЕСКАЯ РАБОТА № 1} \\
+\vspace{1.2em}
+по дисциплине \\
+<<МАТЕМАТИКА>> \\
+
+\vspace{3em}Вариант №2 \\
+\end{center}
+\end{textblock*}
+
+\begin{textblock*}{300pt}(250pt, 350pt)
+\vspace{17em}\begin{flushright}\textit{Выполнили:} \\
+Студенты группы P3118: \\
+Баранов Денис Владимирович \\
+Кравец Роман Денисович \\
+Платонов Никита Олегович \\
+Шипунов Илья  Михайлович \\ 
+\vspace{1em}
+\textit{Преподаватель:} \\
+Беспалов Владимир \\ Владимирович \\
+\end{flushright}
+\end{textblock*}
+
+\begin{textblock*}{300pt}(175pt, 600pt)
+\vspace{7em}\begin{center}
+Санкт-Петербург \\
+2021
+\end{center}
+\end{textblock*}
+
+\hspace{0em}
+\newpage
+\begin{textblock*}{300pt}(105pt, 70pt)
+\Large\textbf{Текст задания:}
+\end{textblock*}
+\begin{picture}(0,0) (35,480) \includegraphics[width = 40em, height = 48em]{images/Task1.png} \end{picture} 
+\hspace{0em}
+\newpage
+\begin{picture}(0,0) (35,450) \includegraphics[width = 40em, height = 50em]{images/Task2.png} \end{picture} 
+\hspace{0em}
+\newpage
+
+\begin{textblock*}{300pt}(100pt, 70pt)
+\Large\textbf{Ход работы:} \\
+\vspace{0.8em} \hspace{0.4em}
+\large\textit{Задание №1:}
+\end{textblock*}
+
+\begin{textblock*}{450pt}(75pt, 120pt)
+1,2) \href{https://www.desmos.com/calculator/hbzeucujrj}{Ссылка на DESMOS} \\
+Зафиксируем  $\rho = 1,  \alpha = 1$, тогда, при изменении параметра , получаем следующие результаты: \\
+При $\varepsilon = 0$: график – окружность, \\
+При $\varepsilon \in (-1, 1)$: график – эллипс, \\
+При $\varepsilon = -1, 1$: график – парабола, \\
+При $\varepsilon \in (-\infty, -1) \cup  (1, \infty)$: график – гипербола; \\
+\hspace{0em} \\
+
+Где $\alpha$ - угол между фокальной плоскостью и полярной осью, уменьшение и увеличение которого приводит к вращению графика по и против часовой стрелки соответственно. \\
+
+$\varepsilon$ - эксцентриситет, то есть: числовая характеристика, показывающая степень отклонения конического сечения от окружности, в данной формуле - основной параметр, изменение которого определяет вид получившейся кривой.
+\end{textblock*}
+
+\begin{textblock*}{450pt}(75pt, 300pt)
+3) \large $x' =r \cos{(\varphi - \alpha)}$  и $y' = r \sin{(\varphi - \alpha)}$ \\
+\hspace{0em} \\
+\large{$r = \frac{\rho}{1 - \varepsilon\cos{(\varphi - \alpha})} \Rightarrow r(1 - \varepsilon\cos{(\varphi - \alpha})) = \rho \Rightarrow r - \varepsilon r \cos{(\varphi - \alpha}) = \rho \Rightarrow r - \varepsilon x = \rho$} \\
+\hspace{0em} \\
+По теореме Пифагора: $\sqrt{x^2 + y^2} = r \Rightarrow \sqrt{x^2 + y^2} - \varepsilon x = \rho \Rightarrow \sqrt{x^2 + y^2} = \varepsilon x + \rho$ \\
+\hspace{0em} \\
+Возведём обе части уравнения в квадрат: $x^2 + y^2 = \rho^2 + 2 \rho \varepsilon x + \varepsilon^2 x^2$ \\
+\hspace{0em}\\
+$x^2 - 2 \rho \varepsilon x - \varepsilon^2 x^2  + y^2 = \rho^2 \Rightarrow \frac{x^2 - 2 \rho \varepsilon x - \varepsilon^2 x^2}{\rho^2} + \frac{y^2}{\rho^2} = 1$ - \normalsize каноническое уравнение эллипса.
+\end{textblock*}
+
+\begin{textblock*}{475pt}(75pt, 425pt)
+4) \begin{tabular}{| c | c | c | c |}
+\hline
+\hspace{0em} & Эксцентриситет, км/c & Афелий, млн. км & Перигелий, млн. км \\ \hline
+Плутон & 0.244 & 7304.3 & 4435.0  \\ \hline
+Сатурн & 0.057 & 1514.5 & 1352.6\\ 
+\hline
+\end{tabular} \\
+\hspace{0em} \\
+Перигелий - точка на орбите планеты, астероида или кометы, ближайшая к Солнцу. $\Rightarrow r_{min}$ \\
+Воспользуемся формулой: \large{$r = \frac{\rho}{1 - \varepsilon\cos{(\varphi - \alpha})}$} \normalsize{и подберем такое значение $\cos{(\varphi - \alpha})$, чтобы значение r было минимально. $\Rightarrow \cos{(\varphi - \alpha}) = -1$}.\\
+\hspace{0em} \\
+Из вышеописанного следует: \large $r_{min} = \frac{\rho}{1 + \varepsilon} \Rightarrow \normalsize {\rho = r_{min}(1 + \varepsilon)}$ \\
+Тогда: \\
+1) $\rho_1 = 4435.0 \cdot (1 + 0.244) = 5517,14$ (млн. км)\\
+2) $\rho_2 = 1352.6 \cdot (1 + 0.057) = 77,0982$ (млн. км)
+\end{textblock*}
+\hspace{0em}
+\newpage
+\hspace{0em}
+\begin{textblock*}{475pt}(75pt, 70pt)
+5) Существует четыре вида космических скоростей: \\
+
+1. Первая космическая скорость или Круговая скорость V1 — скорость, которую необходимо придать объекту без двигателя, пренебрегая сопротивлением атмосферы и вращением планеты, чтобы вывести его на круговую орбиту с радиусом, равным радиусу планеты. \\
+$V_1 = \sqrt{G \cdot \frac{M}{r + h}}$, где G - гравитационная постоянная, M - масса планеты, r - радиус планеты, h - расстояние от поверхности планеты до объекта. \\
+
+2. Вторая космическая скорость (параболическая скорость, скорость убегания) — наименьшая скорость, которую необходимо придать объекту (например, космическому аппарату), масса которого пренебрежимо мала относительно массы небесного тела (например, планеты), для преодоления гравитационного притяжения этого небесного тела. \\
+$V_2 = \sqrt{2} \cdot V_1$ \\
+
+3. Третья космическая скорость — минимально необходимая скорость тела без двигателя, позволяющая преодолеть притяжение Солнца и в результате уйти за пределы Солнечной системы. \\
+$V_3 = \sqrt{(\sqrt{2} - 1)^2 V_Z^2 + V_2^2}$, где $V_Z$ - орбитальная скорость.
+
+4. Четвёртая космическая скорость — минимально необходимая скорость тела без двигателя, позволяющая преодолеть притяжение галактики Млечный Путь. \\
+
+С учётом выше описанного и дополнительной формулы для орбитальной скорости: \\
+$V_Z = \sqrt{\mu(\frac{2}{r} - \frac{1}{\alpha})}$, где $\mu$ - гравитационный параметр ($\mu = G(M + m)$), $\alpha$ - длина большой полуоси,\\
+можно сделать вывод, что на траекторию движения тела в пределах Солнечной системы влияют следующие физические характеристики тела: его собственная масса, кроме того, следующие физические величины также влияют на траекторию: масса планеты, расстояние между объектом и Солнцем, длина большой полуоси.
+
+\end{textblock*}
+\end{document}
